@@ -3,7 +3,7 @@
 ## Assignment's description
 Describe the assignment
 
-## Documentation
+#### Documentation
 Describe the work you did to complete the assignment
 
 bullet point list
